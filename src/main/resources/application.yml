@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://jhanmarcogodoy:Ap8CKdWBMF0idJGd@cluster0.sogcus9.mongodb.net/T07_DEMO?retryWrites=true&w=majority&ssl=true
+
+server:
+  port: 8085
