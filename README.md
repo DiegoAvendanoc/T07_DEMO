@@ -1,1 +1,1 @@
-# T07_DEMO
+# T07_vg-ms-resource
